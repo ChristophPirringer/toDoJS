@@ -1,0 +1,42 @@
+ul {
+  padding: 0px !important;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+
+h1, h3, .col-md-6,
+.col-md-4 {
+  text-align: center;
+}
+
+.list ul {
+  text-align: left;
+}
+
+
+span {
+  display: inline;
+}
+
+.complete, .incomplete {
+  cursor: pointer;
+}
+
+.check:hover {
+  color: red;
+}
+
+.completed {
+  color: green;
+}
+
+.incomplete {
+  color:red;
+}
+
+.entry:hover {
+    text-decoration: line-through;
+}
